@@ -1,0 +1,16 @@
+*{margin:0px;padding:0px;}
+.image-col{padding:0px;}
+.img-fluid-taz{width: 100%;}
+.back{}
+.back-row{background-color:#F0F0F0;padding:22px 0px 10px 0px;}
+.back-text{color:#070D14;text-decoration:none;cursor:pointer;}
+.text-row{background-color:#ffffff;padding:23px 4px 6px 4px;}
+.text-body-p{font-size: 12px;}
+.radio-list{padding-right:30px;font-size: 18px;font-weight: 430;letter-spacing: .6px;color: #000;}
+.select-header{color:#7d7d86;font-weight:442;}
+.radio-click{cursor:pointer;}
+.form-control{cursor:pointer;}
+.btn{float:right;}
+.term-condition-h6{color:#5d5b5b;margin-left: -19px;}
+.term-condition-ul li{font-size:11px;color:#847f7f;}
+.term-condition-ul{padding:0px;}
